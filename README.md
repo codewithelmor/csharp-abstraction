@@ -1,5 +1,4 @@
-# csharp-abstraction-
-Pillars of Object-Oriented Programming (OOP) - Abstraction
+# Pillars of Object-Oriented Programming (OOP) - Abstraction
 
 **`Abstraction`** is a concept in Object-Oriented Programming (OOP) that allows you to provide a simplified view of an entity by exposing only essential features and hiding unnecessary details. In C#, abstraction is often achieved through abstract classes and interfaces. Here's an example using an abstract class:
 
